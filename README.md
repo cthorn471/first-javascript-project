@@ -6,4 +6,4 @@
 - Javascript hover effects <br>
 - Javascript scrolling navigational effects <br>
 
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/UC8dJucmR5EyUoAss8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/UC8dJucmR5EyUoAss8">via GIPHY</a></p>
+![Animated GIF-downsized_large](https://user-images.githubusercontent.com/54293181/113597712-1b7dca00-960a-11eb-90ab-199d86625e0e.gif)
